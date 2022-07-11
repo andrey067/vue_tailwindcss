@@ -6,7 +6,7 @@
         aliquip ullamco sint esse veniam eu dolore. Fugiat quis voluptate pariatur fugiat quis pariatur.
     </div>
 
-    <div class="m-4 space-y-4">
+    <div class="m-4 space-y-4 border-2 border-blue-900 rounded">
         <div>1</div>
         <div>2</div>
         <div>3</div>
